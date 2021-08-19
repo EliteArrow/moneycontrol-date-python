@@ -1,5 +1,5 @@
 # Money-Control
-A Application fetch financial company data from http://www.moneycontrol.com/
+An application fetch financial company data from http://www.moneycontrol.com/
 
 # Financial Data
 1. Company Name
